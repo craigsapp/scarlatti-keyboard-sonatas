@@ -1,7 +1,7 @@
 Digital edition of Scarlatti keyboard sonatas
 ==========================================
 
-This repository is a digital edition of the 32 piano sonatas composed
+This repository is a digital edition of the 59 piano sonatas composed
 by Domenico Scarlatti, encoded in the Humdrum file format.  Tools for
 processing the encodings in this format on the command-line can be found
 online at https://github.com/humdrum-tools
