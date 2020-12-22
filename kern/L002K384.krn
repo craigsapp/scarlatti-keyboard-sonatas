@@ -64,7 +64,7 @@
 !!LO:LB:g=z
 =5	=5	=5	=5
 *Xtuplet	*	*	*
-(12EL	4r	2ggM	.
+(12EL	4r	2ggMM	.
 12G	.	.	.
 12cJ	.	.	.
 12eL	4c	.	.
@@ -136,7 +136,7 @@
 4B) 4g	(12ddL	.
 .	12aa	.
 .	12ggJ)	.
-(<4B 4g	4ggM	.
+(<4B 4g	4ggMM	.
 =12	=12	=12
 4A) 4g	4r	.
 .	(8qb	.
@@ -148,7 +148,7 @@
 4G 4d))	(12bL	.
 .	12aa	.
 .	12ggJ)	.
-4G ((4d	4ggM	.
+4G ((4d	4ggMM	.
 =13	=13	=13
 4c 4e))	4r	.
 .	(8qdd	.
@@ -161,7 +161,7 @@
 4B) 4g	(12ddL	.
 .	12aa	.
 .	12ggJ)	.
-(<4B 4g	4ggM	.
+(<4B 4g	4ggMM	.
 !!LO:LB:g=z
 =14	=14	=14
 4A) 4g	4r	.
@@ -176,7 +176,7 @@
 4G 4d))	(12bL	.
 .	12aa	.
 .	12ggJ)	.
-4G 4d	4ggM	.
+4G 4d	4ggMM	.
 =15	=15	=15
 !	!LO:TX:a:i:t=a tempo	!
 4r	12dL	p
@@ -463,7 +463,7 @@
 (4FF 4F	12gL<]	.
 .	12a	.
 .	12ddJ	.
-4GG) 4G	4b)m	.
+4GG) 4G	4b)mm	.
 =36	=36	=36
 .	(8ddq	.
 !	!	!LO:DY:rj
@@ -559,4 +559,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/01/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/12/18
+!!!EEV: 2020/12/21
