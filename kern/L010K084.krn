@@ -654,17 +654,17 @@
 .	16bbnJJ	.
 =70	=70	=70
 8ccc>'<L)	16rbbb	f
-.	16ccc'LL	.
+.	16ccc'>LL	.
 8gg>'<	16reee	.
-.	16gg'	.
+.	16gg'>	.
 8ee->'<	16rccc	.
-.	16ee-'	.
+.	16ee-'>	.
 8cc>'<	16raa	.
-.	16cc'	.
+.	16cc'>	.
 8g>'<	16rff	.
-.	16g'	.
+.	16g'>	.
 8e->'<J	16rdd	.
-.	16e-'JJ	.
+.	16e-'>JJ	.
 =71	=71	=71
 *>B1	*>B1	*>B1
 4CC^	2.r	.
@@ -690,4 +690,4 @@
 !!!ENC: Kelly Leistikow
 !!!END: 2005/07/26
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/12/20
+!!!EEV: 2020/12/21
