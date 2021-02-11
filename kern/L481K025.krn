@@ -6,15 +6,16 @@
 !!!OMD: Allegro ([quarter]=112)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"K.25 (L.481.)	*I"K.25 (L.481.)	*
+*Icemba	*Icemba	*
+*I"K.25 (L.481)	*I"K.25 (L.481)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*M2/4	*M2/4	*M2/4
-*MM112	*MM112	*MM112
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*f#:	*f#:	*
+*M2/4	*M2/4	*
+*MM112	*MM112	*
 =1-	=1-	=1-
 !	!	!LO:DY:rj
 2r	(16f#LL	p
@@ -308,7 +309,7 @@
 16B#/	.	.	p
 16G#/	8ryy	(>8g#L	.
 16B#/JJ	.	.	.
-16d#>\LL>	4ryy	8a^	.
+16d#>\LL	4ryy	8a^	.
 16B#/	.	.	.
 16G#/	.	8g#J)	.
 16B#/JJ	.	.	.
@@ -317,7 +318,7 @@
 16c#/	.	.	.
 16G#/	8ryy	(>8g#L	.
 16c#\JJ	.	.	.
-16e>\LL>	4ryy	8a^	.
+16e>\LL	4ryy	8a^	.
 16c#/	.	.	.
 16G#/	.	8g#J)	.
 16c#/JJ	.	.	.
@@ -326,7 +327,7 @@
 16B#/	.	.	.
 16G#/	8ryy	(>8g#L	.
 16B#/JJ	.	.	.
-16d#>\LL>	4ryy	8a^	.
+16d#>\LL	4ryy	8a^	.
 16B#/	.	.	.
 16G#/	.	8g#J)	.
 16B#/JJ	.	.	.
@@ -336,7 +337,7 @@
 16c#/	.	.	.
 16G#/	8ryy	(>8g#L	.
 16c#/JJ	.	.	.
-16e>\LL>	4ryy	8a^	.
+16e>\LL	4ryy	8a^	.
 16c#/	.	.	.
 16G#/	.	8g#J)	.
 16c#/JJ	.	.	.
@@ -345,7 +346,7 @@
 16B#/	.	.	.
 16G#/	8ryy	(>8g#L	.
 16B#/JJ	.	.	.
-16d#>\LL>	4ryy	8a^	.
+16d#>\LL	4ryy	8a^	.
 16B#/	.	.	.
 16G#/	.	8g#J)	.
 16B#/JJ	.	.	.
