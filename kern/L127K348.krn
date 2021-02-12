@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.348, L.127
+!!!OTL: Sonata in C major, L.127, K.348
 !!!SCT: K. 348
 !!!SCT: L. 127
 !!!OMD: Prestissimo ([quarter]=144)
 **kern	**kern	**dynam
-*part1	*part1	*part1
-*staff2	*staff1	*
-*I"127.	*I"127.	*
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.127 (K.348)	*I"L.127 (K.348)	*
 *clefF4	*clefG2	*
 *k[f#]	*k[f#]	*
 *M3/4	*M3/4	*

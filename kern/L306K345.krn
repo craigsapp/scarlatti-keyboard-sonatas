@@ -1,21 +1,22 @@
 !!!COM: Scarlatti, Domenico 
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.345, L.306
+!!!OTL: Sonata in D major, L.306, K.345
 !!!SCT: K. 345
 !!!SCT: L. 306
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.306 (K.345)	*I"L.306 (K.345)	*
 *>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM232	*MM232	*MM232
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM232	*MM232	*
 =1-	=1-	=1-
 1r	(2dd\	f
 .	2a/	.

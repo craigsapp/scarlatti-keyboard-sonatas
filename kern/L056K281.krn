@@ -1,19 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.281, L.56
+!!!OTL: Sonata in D major, L.56, K.281
 !!!SCT: K. 281
 !!!SCT: L. 056
 !!!OMD: Andante
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.56 (K.281)	*I"L.56 (K.281)	*
 *>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*M3/4	*M3/4	*M3/4
-*MM126	*MM126	*MM126
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*M3/4	*M3/4	*
+*MM126	*MM126	*
 =1-	=1-	=1-
 [2.DD/ [2.D/	4dd\	.
 .	(8aa\L	.

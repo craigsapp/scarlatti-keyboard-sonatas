@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.492, L.14
+!!!OTL: Sonata in D major, L.14, K.492
 !!!SCT: K. 492
 !!!SCT: L. 14
 !!!OMD: Presto ([quarter-dot]=104)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"14.	*I"14.	*
+*Icemba	*Icemba	*
+*I"L.14 (K.492)	*I"L.14 (K.492)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M6/8	*M6/8	*M6/8
-*MM156	*MM156	*MM156
+*clefG2	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M6/8	*M6/8	*
+*MM156	*MM156	*
 =1-	=1-	=1-
 (8d 8f#L	4.dd^	f
 8e) 8g	.	.

@@ -1,19 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in B-flat major, K.360, L.400
+!!!OTL: Sonata in B-flat major, L.400, K.360
 !!!SCT: K. 260
 !!!SCT: L. 400
 !!!OMD: Allegro
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.400 (K.360)	*I"L.400 (K.360)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*M2/2	*M2/2	*M2/2
-*MM144	*MM144	*MM144
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*M2/2	*M2/2	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 1r	2bb-^\	f
 .	2ff^\	.

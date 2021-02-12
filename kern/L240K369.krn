@@ -1,19 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in A major, K.369, L.240
+!!!OTL: Sonata in A major, L.240, K.369
 !!!SCT: K. 514
 !!!SCT: L. 001
 !!!OMD: Allegro
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.240 (K.369)	*I"L.240 (K.369)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*M3/8	*M3/8	*M3/8
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*M3/8	*M3/8	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 4.A\	(16aa\LL	f
 .	16cc#\	.

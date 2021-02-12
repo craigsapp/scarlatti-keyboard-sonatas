@@ -1,22 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.384, L.2
+!!!OTL: Sonata in C major, L.2, K.384
 !!!SCT: K. 384
 !!!SCT: L. 2
 !!!OMD: Andante cantabile ([quarter]=104)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"2.	*I"2.	*I"2.
+*Icemba	*Icemba	*
+*I"L.2 (K.384)	*I"L.2 (K.384)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM104	*MM104	*MM104
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM104	*MM104	*
 =1-	=1-	=1-
 !	!LO:TUP:b	!
 4r	(12eL	p

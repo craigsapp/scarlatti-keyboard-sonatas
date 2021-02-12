@@ -1,22 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.160, L.15
+!!!OTL: Sonata in D major, L.15, K.160
 !!!SCT: K. 160
 !!!SCT: L. 15
 !!!OMD: Allegro ([quarter]=126)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"15.	*I"15.	*
+*Icemba	*Icemba	*
+*I"L.15 (K.160)	*I"L.15 (K.160)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM126	*MM126	*MM126
+*clefG2	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM126	*MM126	*
 =1-	=1-	=1-
 4dd	8dd'L	f
 .	8ff#'J	.

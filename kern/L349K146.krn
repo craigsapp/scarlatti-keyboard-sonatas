@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G major, K.146, L.349
+!!!OTL: Sonata in G major, L.349, K.146
 !!!SCT: K. 146
 !!!SCT: L. 349
 !!!OMD: Allegretto
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.349 (K.146)	*I"L.349 (K.146)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/8	*M3/8	*M3/8
-*MM72	*MM72	*MM72
+*clefG2	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/8	*M3/8	*
+*MM72	*MM72	*
 =1-	=1-	=1-
 (8g/ 8b/L	(16dd\LL	f
 .	32cc\L	.

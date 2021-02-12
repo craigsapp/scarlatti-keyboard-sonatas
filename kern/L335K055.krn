@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G major, K.55, L.335
+!!!OTL: Sonata in G major, L.335, K.55
 !!!SCT: K. 55
 !!!SCT: L. 335
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.335 (K.55)	*I"L.335 (K.55)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/8	*M3/8	*M3/8
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/8	*M3/8	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 4.g\	(8gg\L	p
 .	8dd\	.

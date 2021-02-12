@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.49, L.301
+!!!OTL: Sonata in C major, L.301, K.49
 !!!SCT: K. 49
 !!!SCT: L. 301
 !!!OMD: Presto
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.301 (K.49)	*I"L.301 (K.49)	*
 *>[A,A1,A,B,B1,B,B2]	*>[A,A1,A,B,B1,B,B2]	*>[A,A1,A,B,B1,B,B2]
 *>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M2/2	*M2/2	*M2/2
-*MM208	*MM208	*MM208
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/2	*M2/2	*
+*MM208	*MM208	*
 =1-	=1-	=1-
 1C	4r	f
 .	(8gg\L	.

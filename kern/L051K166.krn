@@ -1,20 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.166, L.51
+!!!OTL: Sonata in C major, L.51, K.166
 !!!SCT: K. 166
 !!!SCT: L. 51
 !!!OMD: Allegro ma non tanto ([half]=88)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"51.	*I"51.	*
+*Icemba	*Icemba	*
+*I"L.51 (K.166)	*I"L.51 (K.166)	*
 *>[A,A1,A,B,B1,B,B2]	*>[A,A1,A,B,B1,B,B2]	*>[A,A1,A,B,B1,B,B2]
 *>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*M2/2	*M2/2	*M2/2
-*MM176	*MM176	*MM176
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M2/2	*M2/2	*
+*MM176	*MM176	*
 =1-	=1-	=1-
 4C+ 4c+	4r	.
 !	!	!LO:DY:b

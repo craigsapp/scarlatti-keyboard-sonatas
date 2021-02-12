@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in F major, K.296, L.198
+!!!OTL: Sonata in F major, L.198, K.296
 !!!SCT: K. 296
 !!!SCT: L. 198
 !!!OMD: Andante
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.198 (K.296)	*I"L.198 (K.296)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M3/4	*M3/4	*M3/4
-*MM96	*MM96	*MM96
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M3/4	*M3/4	*
+*MM96	*MM96	*
 =1-	=1-	=1-
 (4f\	2ff\ 2aa\	mf
 8.F\L	.	.

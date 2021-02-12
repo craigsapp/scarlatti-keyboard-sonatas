@@ -1,12 +1,12 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D minor, K.1, L.366
+!!!OTL: Sonata in D minor, L.366, K.1
 !!!SCT: K. 1
 !!!SCT: L. 366
 !!!OMD: Allegro ([quarter]=112)
 **kern	**kern	**dynam
-*staff2	*staff1	*staff 1/2
-*I"366.	*I"366.	*
+*staff2	*staff1	*staff1/2
+*I"L.366 (K.1)	*I"L.366 (K.1)	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M4/4	*M4/4	*

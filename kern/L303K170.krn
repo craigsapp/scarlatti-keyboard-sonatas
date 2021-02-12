@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.170, L.303
+!!!OTL: Sonata in C major, L.303, K.170
 !!!SCT: K. 170
 !!!SCT: L. 303
 !!!OMD: Andante moderato e cantabile
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.303 (K.170)	*I"L.303 (K.170)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M2/2	*M2/2	*M2/2
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/2	*M2/2	*
+*MM132	*MM132	*
 4r	(4ee\	p
 =1	=1	=1
 4r	12gg\L	.

@@ -1,20 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C minor, K.84, L.10
+!!!OTL: Sonata in C minor, L.10, K.84
 !!!SCT: K. 84
 !!!SCT: L. 10
 !!!OMD: Allegro ([quarter]=152)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"10.	*I"10.	*
+*Icemba	*Icemba	*
+*I"L.10 (K.84)	*I"L.10 (K.84)	*
 *>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]
 *>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*M3/4	*M3/4	*M3/4
-*MM152	*MM152	*MM152
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*M3/4	*M3/4	*
+*MM152	*MM152	*
 =1-	=1-	=1-
 4CC 4C	8r	f
 .	8c'L	.

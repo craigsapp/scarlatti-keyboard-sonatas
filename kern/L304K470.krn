@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G major, K.470, L.304
+!!!OTL: Sonata in G major, L.304, K.470
 !!!SCT: K. 470
 !!!SCT: L. 304
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.304 (K.470)	*I"L.304 (K.470)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M2/2	*M2/2	*M2/2
-*MM216	*MM216	*MM216
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M2/2	*M2/2	*
+*MM216	*MM216	*
 4r	4gg'\	mf
 =1	=1	=1
 2GG/ 2G/	(4gg\	.

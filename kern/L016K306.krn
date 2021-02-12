@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in E-flat major, K.306, L.16
+!!!OTL: Sonata in E-flat major, L.16, K.306
 !!!SCT: K. 306
 !!!SCT: L. 16
 !!!OMD: Allegro ([half]=104)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Icemba	*Icemba	*
-*I"16.	*I"16.	*
+*I"L.16 (K.306)	*I"L.16 (K.306)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
@@ -16,7 +16,7 @@
 *E-:	*E-:	*
 *M2/2	*M2/2	*
 *met(c|)	*met(c|)	*
-*MM208	*MM208	*MM208
+*MM208	*MM208	*
 =1-	=1-	=1-
 !	!	!LO:DY:rj
 (2.e- 2.g	(4.ee-	mf

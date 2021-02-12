@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.461, L.8
+!!!OTL: Sonata in C major, L.8, K.461
 !!!SCT: K. 461
 !!!SCT: L. 8
 !!!OMD: Allegro ([quarter-dot]=88)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"8.	*I"8.	*I"8.
+*Icemba	*Icemba	*
+*I"L.8 (K.461)	*I"L.8 (K.461)	*
 *clefF4	*clefG2	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]

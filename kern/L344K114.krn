@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in A major, K.114, L.344
+!!!OTL: Sonata in A major, L.344, K.114
 !!!SCT: K. 114
 !!!SCT: L. 344
 !!!OMD: Con spirito e presto
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.344 (K.114)	*I"L.344 (K.114)	*
 *clefF4	*clefG2	*clefG2
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M3/8	*M3/8	*M3/8
-*MM99	*MM99	*MM99
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M3/8	*M3/8	*
+*MM99	*MM99	*
 =1-	=1-	=1-
 *	*^	*
 8.A\	16r	16r	.

@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in A major, K.113, L.345
+!!!OTL: Sonata in A major, L.345, K.113
 !!!SCT: K. 113
 !!!SCT: L. 345
 !!!OMD: Allegrissimo
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.345 (K.113)	*I"L.345 (K.113)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M2/2	*M2/2	*M2/2
-*MM240	*MM240	*MM240
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M2/2	*M2/2	*
+*MM240	*MM240	*
 =1-	=1-	=1-
 1r	4r	.
 .	(8cc#\L	f

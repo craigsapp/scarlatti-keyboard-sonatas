@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.165, L.52
+!!!OTL: Sonata in C major, L.52, K.165
 !!!SCT: K. 165
 !!!SCT: L. 052
 !!!OMD: Andante ([quarter]=108)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"52.	*I"52.	*
+*Icemba	*Icemba	*
+*I"L.52 (K.165)	*I"L.52 (K.165)	*
 *>[A,A1,A,A2,B,B2,B,B2]	*>[A,A1,A,A2,B,B2,B,B2]	*>[A,A1,A,A2,B,B2,B,B2]
 *>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M3/4	*M3/4	*M3/4
-*MM108	*MM108	*MM108
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+*MM108	*MM108	*
 =1-	=1-	=1-
 4Cj	(12ccL	p
 .	12ee	.

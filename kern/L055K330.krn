@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.330, L.55
+!!!OTL: Sonata in C major, L.55, K.330
 !!!SCT: K. 330
 !!!SCT: L. 055
 !!!OMD: Allegro
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.55 (K.330)	*I"L.55 (K.330)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M3/8	*M3/8	*M3/8
-*MM156	*MM156	*MM156
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/8	*M3/8	*
+*MM156	*MM156	*
 =1-	=1-	=1-
 4.r	8cc'^\L	f
 .	8cc'\	.

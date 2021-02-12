@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G minor, K.476, L.340
+!!!OTL: Sonata in G minor, L.340, K.476
 !!!SCT: K. 476
 !!!SCT: L. 340
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.340 (K.476)	*I"L.340 (K.476)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
-*M3/8	*M3/8	*M3/8
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*M3/8	*M3/8	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 4.GG/	(8gg\L	mf
 .	8dd\	.

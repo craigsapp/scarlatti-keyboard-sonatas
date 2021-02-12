@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.406, L.4
+!!!OTL: Sonata in C major, L.5, K.406
 !!!SCT: K. 406
-!!!SCT: L. 4
+!!!SCT: L. 5
 !!!OMD: ALLEGRO ([half]=112)
 **kern	**kern	**dynam
-*part1	*part1	*part1
 *staff2	*staff1	*staff1/2
-*I"Piano	*I"Piano	*
+*Icemba	*Icemba	*
+*I"L.5 (K.406)	*I"L.5 (K.406)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A

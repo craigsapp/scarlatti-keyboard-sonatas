@@ -1,21 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.534, L.11
+!!!OTL: Sonata in D major, L.11, K.534
 !!!SCT: K. 534
 !!!SCT: L. 011
 !!!OMD: Cantabile
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.11 (K.534)	*I"L.11 (K.534)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM100	*MM100	*MM100
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM100	*MM100	*
 =1-	=1-	=1-
 ([4D\	1r	.
 16D\LL]	.	.

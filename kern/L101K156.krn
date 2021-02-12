@@ -1,21 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.156, L.101
+!!!OTL: Sonata in C major, L.101, K.156
 !!!SCT: K. 156
 !!!SCT: L. 101
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.101 (K.156)	*I"L.101 (K.156)	*
 *>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]	*>[A,A1,A,A2,B,B]
 *>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM92	*MM92	*MM92
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM92	*MM92	*
 =1-	=1-	=1-
 8C/	8r	.
 8r	(16gg\LL	p

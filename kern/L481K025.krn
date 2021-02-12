@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in F-sharp minor, K.25, L.481
+!!!OTL: Sonata in F-sharp minor, L.481, K.25
 !!!SCT: K. 025
 !!!SCT: L. 481
 !!!OMD: Allegro ([quarter]=112)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Icemba	*Icemba	*
-*I"K.25 (L.481)	*I"K.25 (L.481)	*
+*I"L.481 (K.25)	*I"L.481 (K.25)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A

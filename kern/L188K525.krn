@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in F major, K.188, L.525
-!!!SCT: K. 188
-!!!SCT: L. 525
+!!!OTL: Sonata in F major, L.188, K.525
+!!!SCT: K. 525
+!!!SCT: L. 188
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.188 (K.525)	*I"L.188 (K.525)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M6/8	*M6/8	*M6/8
-*MM198	*MM198	*MM198
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M6/8	*M6/8	*
+*MM198	*MM198	*
 =1-	=1-	=1-
 4r	2.r	.
 (8c\	.	.

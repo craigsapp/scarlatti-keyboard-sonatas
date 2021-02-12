@@ -1,19 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.513, L.503
+!!!OTL: Sonata in C major, L.503, K.513
 !!!SCT: K. 513
 !!!SCT: L. 503
 !!!OMD: Pastorale ([quarter-dot]=76)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.503 (K.513)	*I"L.503 (K.513)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*M12/8	*M12/8	*M12/8
-*MM114	*MM114	*MM114
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M12/8	*M12/8	*
+*MM114	*MM114	*
 =1-	=1-	=1-
 !	!	!LO:DY:rj
 2.r	(8.eeL	p

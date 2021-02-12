@@ -6,15 +6,16 @@
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.334 (K.122)	*I"L.334 (K.122)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M3/8	*M3/8	*M3/8
-*MM120	*MM120	*MM120
+*clefG2	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/8	*M3/8	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 8d'/ 8f#'/L	(32ff#\LLL	f
 .	32gg\J	>

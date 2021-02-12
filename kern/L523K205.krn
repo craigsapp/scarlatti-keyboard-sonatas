@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in F major, K.205, L.523
+!!!OTL: Sonata in F major, L.523, K.205
 !!!SCT: K. 205
 !!!SCT: L. 523
 !!!OMD: VIVACE ([half]=108)
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.523 (K.205)	*I"L.523 (K.205)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*M2/2	*M2/2	*M2/2
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*M2/2	*M2/2	*
 *met(c|)	*met(c|)	*
-*MM216	*MM216	*MM216
+*MM216	*MM216	*
 2r	(4ffM	sf
 .	8eeL	p
 .	8ddJ	.

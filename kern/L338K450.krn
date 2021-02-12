@@ -1,21 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G minor, K.450, L.338
+!!!OTL: Sonata in G minor, L.338, K.450
 !!!SCT: K. 450
 !!!SCT: L. 338
 !!!OMD: Allegrissimo
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.338 (K.450)	*I"L.338 (K.450)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM112	*MM112	*MM112
+*clefG2	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM112	*MM112	*
 =1-	=1-	=1-
 *^	*^	*
 (8g/L	2g^\	(2gg/	8gg\L	f

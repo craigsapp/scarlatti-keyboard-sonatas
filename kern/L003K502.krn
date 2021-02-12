@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.502, L.3
+!!!OTL: Sonata in C major, L.3, K.502
 !!!SCT: K. 502
 !!!SCT: L. 3
 !!!OMD: Allegro ([quarter-dot]=72)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"3.	*I"3.	*I"3.
+*Icemba	*Icemba	*
+*I"L.3 (K.502)	*I"L.3 (K.502)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A

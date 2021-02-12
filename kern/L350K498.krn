@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in B minor, K.498, L.350
+!!!OTL: Sonata in B minor, L.350, K.498
 !!!SCT: K. 498
 !!!SCT: L. 350
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.350 (K.498)	*I"L.350 (K.498)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*b:	*b:	*b:
-*M3/4	*M3/4	*M3/4
-*MM160	*MM160	*MM160
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*b:	*b:	*
+*M3/4	*M3/4	*
+*MM160	*MM160	*
 =1-	=1-	=1-
 2.r	(8bb\L	f
 .	8ff#\	.

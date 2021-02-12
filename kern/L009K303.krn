@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C minor, K.303, L.9
+!!!OTL: Sonata in C minor, L.9, K.303
 !!!SCT: K. 303
 !!!SCT: L. 9
 !!!OMD: Allegro ([quarter-dot]=66)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"9.	*I"9.	*
+*Icemba	*Icemba	*
+*I"L.9 (K.303)	*I"L.9 (K.303)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*c:	*c:	*c:
-*M3/8	*M3/8	*M3/8
-*MM99	*MM99	*MM99
+*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M3/8	*M3/8	*
+*MM99	*MM99	*
 =1-	=1-	=1-
 (<8c	(8.ggtL	p
 4cc)	.	.

@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G major, K.434, L.343
+!!!OTL: Sonata in G major, L.343, K.434
 !!!SCT: K. 434
 !!!SCT: L. 343
 !!!OMD: Andante
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.343 (K.434)	*I"L.343 (K.434)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*d:	*d:	*d:
-*M3/4	*M3/4	*M3/4
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*d:	*d:	*
+*M3/4	*M3/4	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 2.r	(2.dd\	p
 =2	=2	=2

@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in B minor, K.227, L.347
+!!!OTL: Sonata in B minor, L.347, K.227
 !!!SCT: K. 227
 !!!SCT: L. 347
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.347 (K.227)	*I"L.347 (K.227)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*b:	*b:	*b:
-*M2/4	*M2/4	*M2/4
-*MM92	*MM92	*MM92
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*b:	*b:	*
+*M2/4	*M2/4	*
+*MM92	*MM92	*
 =1-	=1-	=1-
 2r	8r	.
 .	(8ff#\L	p

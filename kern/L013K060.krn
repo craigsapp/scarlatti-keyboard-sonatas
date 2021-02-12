@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in G minor, K.60, L.13
+!!!OTL: Sonata in G minor, L.13, K.60
 !!!SCT: K. 60
 !!!SCT: L. 13
 !!!OMD: Allegretto ([quarter]=126)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"13.	*I"13.	*
+*Icemba	*Icemba	*
+*I"L.13 (K.60)	*I"L.13 (K.60)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
-*M3/4	*M3/4	*M3/4
-*MM126	*MM126	*MM126
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*M3/4	*M3/4	*
+*MM126	*MM126	*
 =1-	=1-	=1-
 2GG	(4gg	f
 .	8gL)	.

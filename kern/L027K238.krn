@@ -1,22 +1,22 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in F minor, K.238, L.27
+!!!OTL: Sonata in F minor, L.27, K.238
 !!!SCT: K. 238
 !!!SCT: L. 27
 !!!OMD: Andante ([quarter]=92)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"27.	*I"27.	*
+*Icemba	*Icemba	*
+*I"L.27 (K.238)	*I"L.27 (K.238)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
 *clefF4	*clefG2	*clefG2
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*f:	*f:	*f:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM92	*MM92	*MM92
+*f:	*f:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM92	*MM92	*
 =1-	=1-	=1-
 4FF+	8r	.
 .	(8ccL	p

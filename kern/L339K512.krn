@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.512, L.339
+!!!OTL: Sonata in D major, L.339, K.512
 !!!SCT: K. 512
 !!!SCT: L. 339
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.339 (K.512)	*I"L.339 (K.512)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M3/4	*M3/4	*M3/4
-*MM240	*MM240	*MM240
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/4	*M3/4	*
+*MM240	*MM240	*
 =1-	=1-	=1-
 4DD^/ 4D^/	4r	.
 4r	(8aa\L	f

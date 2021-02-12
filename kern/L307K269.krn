@@ -1,20 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.269, L.307
+!!!OTL: Sonata in C major, L.307, K.269
 !!!SCT: K. 269
 !!!SCT: L. 307
 !!!OMD: Allegro
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
+*Icemba	*Icemba	*
+*I"L.307 (K.269)	*I"L.307 (K.269)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*M6/8	*M6/8	*M6/8
-*MM156	*MM156	*MM156
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M6/8	*M6/8	*
+*MM156	*MM156	*
 =1-	=1-	=1-
 .	(ddq/	.
 (8A\L	4.cc#\)	p

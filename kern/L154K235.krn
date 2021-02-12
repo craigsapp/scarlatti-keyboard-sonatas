@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.235, L.154
+!!!OTL: Sonata in C major, L.154, K.235
 !!!SCT: K. 235
 !!!SCT: L. 154
 !!!OMD: Allegro ([quarter-dot]=100)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"154.	*I"154.	*
+*Icemba	*Icemba	*
+*I"L.154 (K.235)	*I"L.154 (K.235)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/8	*M3/8	*M3/8
-*MM150	*MM150	*MM150
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/8	*M3/8	*
+*MM150	*MM150	*
 =1-	=1-	=1-
 (8GL	(4.gg	p
 8A	.	.

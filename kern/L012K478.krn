@@ -1,20 +1,20 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in D major, K.478, L.12
+!!!OTL: Sonata in D major, L.12, K.478
 !!!SCT: K. 478
 !!!SCT: L. 12
 !!!OMD: Andante cantabile ([quarter]=92)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"12.	*I"12.	*
+*Icemba	*Icemba	*
+*I"L.12 (K.478)	*I"L.12 (K.478)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*M3/4	*M3/4	*M3/4
-*MM92	*MM92	*MM92
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*M3/4	*M3/4	*
+*MM92	*MM92	*
 =1-	=1-	=1-
 (<4d 4f#	(8.aaL	mf
 .	16bbJk	.

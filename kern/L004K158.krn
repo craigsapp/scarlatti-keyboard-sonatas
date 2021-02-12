@@ -1,14 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C minor, K.514, L.1
+!!!OTL: Sonata in C minor, L.4, K.158
 !!!SCT: K. 158
 !!!SCT: L. 4
 !!!OMD: ANDANTE ([quarter-dot]=40)
 !!!ONB: Scan pages 2 and 3 are swapped
 **kern	**kern	**dynam
-*part1	*part1	*part1
 *staff2	*staff1	*staff1/2
-*I"Piano	*I"Piano	*
+*I"L.4 (K.158)	*I"L.4 (K.158)	*
 *clefF4	*clefG2	*
 *k[b-e-a-]	*k[b-e-a-]	*
 *c:	*c:	*

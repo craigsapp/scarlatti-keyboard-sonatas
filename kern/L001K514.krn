@@ -1,13 +1,13 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in C major, K.514, L.1
+!!!OTL: Sonata in C major, L.1, K.514
 !!!SCT: K. 514
 !!!SCT: L. 1
 !!!OMD: Allegro ([half]=96)
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Icemba	*Icemba	*Icemba
-*I"1.	*I"1.	*
+*Icemba	*Icemba	*
+*I"L.1 (K.514)	*I"L.1 (K.514)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
@@ -16,7 +16,7 @@
 *C:	*C:	*
 *M2/2	*M2/2	*
 *met(c|)	*met(c|)	*
-*MM192	*MM192	*MM192
+*MM192	*MM192	*
 =1-	=1-	=1-
 2C	8r	f
 .	8cc'L	.

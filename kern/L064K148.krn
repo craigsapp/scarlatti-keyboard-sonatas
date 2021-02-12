@@ -1,21 +1,21 @@
 !!!COM: Scarlatti, Domenico
 !!!CDT: 1685-1757
-!!!OTL: Sonata in A minor, K.148, L.64
-!!!OMD: Andante
+!!!OTL: Sonata in A minor, L.64, K.148
 !!!SCT: K. 148
 !!!SCT: L. 064
 !!!OMD: Andante
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
-*Icemba	*Icemba	*Icemba
+*staff2	*staff1	*staff1/2
+*Icemba	*Icemba	*
+*I"L.64 (K.148)	*I"L.64 (K.148)	*
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*a:	*a:	*a:
-*M3/8	*M3/8	*M3/8
-*MM81	*MM81	*MM81
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M3/8	*M3/8	*
+*MM81	*MM81	*
 =1-	=1-	=1-
 (8A\L	4.ee\	mf
 8B\	.	.
