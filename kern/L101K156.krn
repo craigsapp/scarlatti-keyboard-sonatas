@@ -602,9 +602,8 @@
 *-	*-	*-
 !!!RDF**kern: @ = marked note, color="silver", optional note
 !!!RDF**kern: > = above
-!!!RDF**kern: < = above
-!!!RDF**kern: i = editorial accidental, paren
 !!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
 !!!PTL: Domenico Scarlatti: Opere complete per clavicembalo
 !!!PED: Longo, Alessandro
 !!!PPR: Ricordi
