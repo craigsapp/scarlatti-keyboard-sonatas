@@ -1,0 +1,11 @@
+A digital edition of selected Scarlatti keyboard sonatas
+based on "Domenico Scarlatti: Opere complete per clavicembalo,"
+Allessandro Longo, ed., Milan: Riccordi, 1906-1913
+================================================
+
+Copyright (C) 2021 Craig Stuart Sapp
+https://github.com/craigsapp/scarlatti-keyboard-sonatas
+
+Licensed with Attribution-NonCommercial-ShareAlike 4.0 International 
+(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+

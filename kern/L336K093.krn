@@ -1190,11 +1190,15 @@
 !!!RDF**dynam: > = dim.
 !!!RDF**dynam: < = cres.
 !!!RDF**kern: @ = marked note, color="silver", optional note
+!!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L336K093.krn
+!!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L336K093.pdf
 !!!PTL: Domenico Scarlatti: Opere complete per clavicembalo
 !!!PED: Longo, Alessandro
 !!!PPR: Ricordi
 !!!PPP: Milan
 !!!PDT: 1906-1913
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/10/29
 !!!EED: Craig Stuart Sapp
