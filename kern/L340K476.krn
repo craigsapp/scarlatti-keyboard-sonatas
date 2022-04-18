@@ -449,7 +449,7 @@
 .	8f' 8dd'	.
 8AA'	8en' 8cc#'J	.
 =71	=71	=71
-16r	4.d@ 4.dd	p
+16r	4.d+ 4.dd	p
 (16DLL	.	<
 16En	.	.
 16F	.	.
@@ -990,7 +990,7 @@
 .	8B-' 8g'	.
 8D'/	8A' 8f#'J	.
 =147	=147	=147
-16r	4.G@ 4.g	.
+16r	4.G+ 4.g	.
 (16GGLL	.	p
 16AA	.	<
 16BB-	.	.
@@ -1069,7 +1069,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L340K476.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L340K476.pdf

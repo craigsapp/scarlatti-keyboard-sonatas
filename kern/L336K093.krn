@@ -613,7 +613,7 @@
 4A	(4cc#	8en	.
 .	.	8gJ	.
 =59	=59	=59	=59
-4D)@	4dd	8f#L	.
+4D)+	4dd	8f#L	.
 .	.	8gJ	.
 (8dL	4a)	4a)	.
 8cJ	.	.	.
@@ -696,7 +696,7 @@
 !!LO:LB:g=z
 =67	=67	=67
 *	*^	*
-8dL	4ff)@	(>8fL	.
+8dL	4ff)+	(>8fL	.
 8e-	.	8g	.
 8f	4ryy	8a	.
 8gJ	.	8bnJ	.
@@ -740,7 +740,7 @@
 8c	8cc	.
 8d	8b-	.
 8B-J	8a-J)	.
-8e-)	2g@ 2ee- (2gg	f
+8e-)	2g+ 2ee- (2gg	f
 (8E-L	.	.
 8G	.	.
 8A-J	.	.
@@ -869,7 +869,7 @@
 .	8ddJ	8fJ)	.
 *	*v	*v	*
 =84	=84	=84
-2C@	8e- 8ccL	.
+2C+	8e- 8ccL	.
 .	8d 8b-	.
 .	8c 8a	.
 .	8B- 8gJ	.
@@ -956,7 +956,7 @@
 8AJ	8ff# 8aaJ	.
 =93	=93	=93
 *	*^	*
-(<8G)@ 8gL	2ryy	8gg@ 8bb-L	.
+(<8G)+ 8gL	2ryy	8gg+ 8bb-L	.
 8fn	.	8aa	.
 8e-	.	8gg	.
 8dJ	.	8ffnJ	.
@@ -1023,7 +1023,7 @@
 .	8gg	8b-	.
 .	8ff#J	8aJ	.
 =100	=100	=100	=100
-8dL]	2gg)@	(>2g)	.
+8dL]	2gg)+	(>2g)	.
 8e-	.	.	mf
 8d	.	.	.
 8cJ	.	.	.
@@ -1189,7 +1189,7 @@
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
 !!!RDF**dynam: < = cres.
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L336K093.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L336K093.pdf

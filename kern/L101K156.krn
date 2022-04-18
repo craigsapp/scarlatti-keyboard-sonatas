@@ -18,7 +18,7 @@
 *M4/4	*M4/4	*
 *MM92	*MM92	*
 =1-	=1-	=1-
-8C@	8r	.
+8C+	8r	.
 8r	(16ggLL	p
 .	16ffJJ	.
 4r	8eeL	.
@@ -350,7 +350,7 @@
 8d	8dd	.	.
 8c)	8ccJ)	.	.
 8B' 8g#'J	8dd' 8bb'	8ryy	.
-4.A^ 4.a^	8cc'@ 8ccc'L	4ryy	.
+4.A^ 4.a^	8cc'+ 8ccc'L	4ryy	.
 .	8eeJ	.	.
 .	(24ffLL	8ryy	.
 .	24ee	.	.
@@ -600,7 +600,7 @@
 8CC' 8C'	8cc')	.
 ==:|!	==:|!	==:|!
 *-	*-	*-
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental, paren

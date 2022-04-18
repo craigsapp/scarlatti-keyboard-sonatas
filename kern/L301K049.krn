@@ -1276,14 +1276,14 @@
 .	12aJ)	.
 =121:|!	=121:|!	=121:|!
 *>B2	*>B2	*>B2
-4CC^ 4C^@	4c^	f
+4CC^ 4C^+	4c^	f
 4r	4r	.
 2r	2r	.
 ==	==	==
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L301K049.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L301K049.pdf

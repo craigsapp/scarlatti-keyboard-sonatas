@@ -451,7 +451,7 @@
 8GG#'J	8B#' 8d#'J	.
 =45	=45	=45
 *MM88	*MM88	*
-2CC# 2C#@	2c#mm	.
+2CC# 2C#+	2c#mm	.
 !!LO:LB:g=z
 =46:|!|:	=46:|!|:	=46:|!|:
 *>B	*>B	*>B
@@ -729,11 +729,11 @@
 8F# 8A)	(32aLLL	mf
 .	32g#J	.
 .	16f#JJ)	.
-8d (8f#@L	(16ff#LL	p
+8d (8f#+L	(16ff#LL	p
 .	16bJJ	.
-8c# 8en@	16eenLL	.
+8c# 8en+	16eenLL	.
 .	16a	.
-8B 8d@J	16dd	.
+8B 8d+J	16dd	.
 .	16g#JJ	.
 =74	=74	=74
 8A 8c#L	16cc#LL	.
@@ -818,11 +818,11 @@
 8F# 8A)	(32aLLL	mf
 .	32g#J	.
 .	16f#JJ)	.
-(8d 8f#@L	(16ff#LL	<
+(8d 8f#+L	(16ff#LL	<
 .	16bJJ	.
-8c# 8en@	16eenLL	.
+8c# 8en+	16eenLL	.
 .	16a	.
-8B 8d@J	16dd	.
+8B 8d+J	16dd	.
 .	16g#JJ	.
 =83	=83	=83
 8A 8c#)	16cc#LL	.
@@ -882,7 +882,7 @@
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
 !!!RDF**kern: N = linked
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L481K025.pdf
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L481K025.krn

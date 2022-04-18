@@ -180,7 +180,7 @@
 *	*v	*v	*
 =27	=27	=27
 *	*^	*
-2D 2A@ 2d@	2dd	(4g	f
+2D 2A+ 2d+	2dd	(4g	f
 .	.	4a)	.
 *	*v	*v	*
 2r	2r	.
@@ -627,7 +627,7 @@
 *v	*v	*	*
 =76	=76	=76
 .	(dd8qq	.
-4A 4a)@)	2ee)	.
+4A 4a)+)	2ee)	.
 *clefF4	*	*
 4A (4a	.	<
 4Gn 4gn)	4r	.
@@ -1225,7 +1225,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L304K470.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L304K470.pdf

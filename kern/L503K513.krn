@@ -163,13 +163,13 @@
 4.a_	4A]	4aa	.
 .	8B	8ggn	.
 =12	=12	=12	=12
-8a]L	4.c@	8ff#L	.
+8a]L	4.c+	8ff#L	.
 8f#	.	8dd#	.
 [8gJ	.	[8eeJ	.
-4g]	4.B@	4ee]	.
+4g]	4.B+	4ee]	.
 8f#	.	8dd#)	.
 *	*^	*^	*
-[2.e)	4r	8g@	(4bb	2.b	.
+[2.e)	4r	8g+	(4bb	2.b	.
 .	.	4ryy	.	.	.
 .	([8E	.	8aa	.	.
 .	4E]	4.ryy	4gg	.	.
@@ -184,7 +184,7 @@
 4f#	4.A	4dd]	.
 8e)	.	8cc#	.
 *v	*v	*	*
-(4D/	4.f#@\ 4.dd\)	.
+(4D/	4.f#+\ 4.dd\)	.
 8DD)	.	.
 !	!LO:TUP:r=8	!
 4r	(24aLL	p
@@ -820,7 +820,7 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
-!!!RDF**kern: @ = marked note color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L503K513.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L503K513.pdf

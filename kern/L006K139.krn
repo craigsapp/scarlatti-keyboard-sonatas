@@ -316,7 +316,7 @@
 .	8gg	.
 4D	8aan	.
 .	8ff#J	.
-4G')	4g' 4gg@)	.
+4G')	4g' 4gg+)	.
 *clefG2	*	*
 4f#'	4an'm	p
 =34	=34	=34
@@ -896,7 +896,7 @@
 4D 4Bn	4bn'm	mf
 4C 4c)	(8ccL	.
 .	8ddJ	.
-4G' 4c@ 4e-	8ee-L	.
+4G' 4c+ 4e-	8ee-L	.
 .	8cc	.
 4G 4d (>4f	8dd	.
 .	8bJ	.
@@ -969,7 +969,7 @@
 1CC 1C	1c)	.
 =:|!	=:|!	=:|!
 *-	*-	*-
-!!!RDF**kern: @ = marked note, color="silver", optional note
+!!!RDF**kern: + = marked note, optional, color=silver
 !!!RDF**kern: i = editorial accidental, paren
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
