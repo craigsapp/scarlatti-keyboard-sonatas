@@ -124,9 +124,9 @@
 *	*^	*
 8FF#')	(32aLLL	8ryy	mf
 .	32g#J	.	.
-.	16f#JJ)	.	p
-!	!LO:TX:a:i:t=m.s.	!	!
-8ryy	(8cc#L	(16c#LL	.
+.	16f#JJ)	.	.
+!	!LO:TX:a:i:t=m.s.	!	!LO:DY:rj
+8ryy	(8cc#L	(16c#LL	p
 .	.	16f#JJ	.
 4ryy	8dd^	16aLL	.
 .	.	16f#	.
@@ -268,8 +268,8 @@
 .	.	16bJJ	.
 8A	8ff#	16cc#LL	.
 .	.	16a	.
-8G#J	8gg#J	16b	.
-.	.	16g#JJ))	.
+8G#J	8gg#J)	16b	.
+.	.	16g#JJ)	.
 *	*v	*v	*
 =27	=27	=27
 8F#)	(16aaLL	mf
@@ -295,12 +295,12 @@
 8G#')	16dd#LL	.
 .	16a	.
 (<8BB#L	16g#	.
-.	16f#JJ	.
-8C#	(32eLLL)	f
+.	16f#JJ)	.
+8C#	(32eLLL	f
 .	32d#J	.
 .	16c#JJ)	.
 !!!ONB: linked slur needs to be added here
-8AAJ	16B#LL	mf
+8AAJ	N(16B#LL	mf
 .	16c#JJ	.
 =30	=30	=30
 *^	*	*
@@ -349,7 +349,7 @@
 16d#>\LL	4ryy	8a^	.
 16B#/	.	.	.
 16G#/	.	8g#J)	.
-16B#/JJ	.	.	.
+16B#/JJN)	.	.	.
 *v	*v	*	*
 =35	=35	=35
 8C#	(32eLLL	mf
@@ -390,7 +390,7 @@
 8A#' 8c#' 8d#'J	16gg#	.
 .	16ff##JJ	.
 =39	=39	=39
-8G#' 8d#'L	16gg#LL)	.
+8G#' 8d#'L	16gg#LL>)	.
 .	(16g#	p
 8G#' 8d#'J	16f##	.
 .	16g#JJ	.
@@ -421,7 +421,7 @@
 =42	=42	=42
 8C#' 8c#'	16eeLL	.
 .	16aa	.
-(8F#^L	16gg#	.
+(8F#^L<	16gg#	.
 .	16ff#JJ	.
 8G#')	16eeLL	.
 .	16dd#	.
@@ -739,11 +739,11 @@
 8A 8c#L	16cc#LL	.
 .	16f#	.
 8G# 8B	16b	.
-.	16e#JJ	.
-8F# 8A)	(32aLLL)	mf
+.	16e#JJ)	.
+8F# 8A)	(32aLLL	mf
 .	32g#J	.
 .	16f#JJ)	.
-(<8D^ 8B^J	(<16e#LL	.
+(<8D^< 8B^<J	(<16e#LL	.
 .	16f#JJ	.
 !!LO:LB:g=z
 =75	=75	=75
@@ -791,7 +791,7 @@
 4ryy	8dd^	16g#LL	.
 .	.	16e#	.
 .	8cc#J)	16c#	.
-.	.	16e#JJ)	.
+.	.	16e#JJ	.
 *	*v	*v	*
 !!LO:LB:g=z
 =80	=80	=80
@@ -881,7 +881,10 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
+!!!RDF**kern: N = linked
 !!!RDF**kern: @ = marked note, color="silver", optional note
+!!!verovio: beamFrenchStyle 1
+!!!verovio: beamFrenchStyle 1
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L481K025.pdf
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L481K025.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L481K025.pdf
@@ -895,4 +898,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2006/08/13
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/02/10
+!!!EEV: 2022/04/18

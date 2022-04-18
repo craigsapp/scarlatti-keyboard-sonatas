@@ -550,6 +550,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!verovio: beamFrenchStyle 1
 !!!RDF**kern: i = editorial accidental
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L002K384.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L002K384.pdf

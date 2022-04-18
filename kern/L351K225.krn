@@ -1067,6 +1067,7 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: @ = marked note, color="silver", optional note
+!!!verovio: beamFrenchStyle 1
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L351K225.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L351K225.pdf
 !!!PTL: Domenico Scarlatti: Opere complete per clavicembalo
