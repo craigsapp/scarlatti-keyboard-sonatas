@@ -1191,6 +1191,7 @@
 !!!RDF**dynam: < = cres.
 !!!RDF**kern: + = marked note, optional, color=silver
 !!!verovio: beamFrenchStyle 1
+!!!verovio: mnumInterval 5
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L336K093.krn
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L336K093.pdf (reference ed.) Alessandro Longo (1864-1945) Milan: G. Ricordi & C.
 !!!URL-pdf: https://imslp.hk/files/imglnks/euimg/5/53/IMSLP353449-PMLP506809-Scarlatti,_Domenico-Sonates_Heugel_32.522_Volume_2.pdf#page=148 (urtext) Kenneth Gilbert (1931-2020), Le Pupitre, Vol.32, Paris: Heugel, 1979. Plate H. 32,522.

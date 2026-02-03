@@ -551,6 +551,7 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!verovio: beamFrenchStyle 1
+!!!verovio: mnumInterval 5
 !!!RDF**kern: i = editorial accidental
 !!!URL-vhv: https://verovio.humdrum.org/?file=scarlatti/sonatas/L002K384.krn (reference ed.) Alessandro Longo (1864-1945) Milan: G. Ricordi & C.
 !!!URL-pdf: https://github.com/craigsapp/scarlatti-keyboard-sonatas/blob/master/reference-edition/L002K384.pdf
